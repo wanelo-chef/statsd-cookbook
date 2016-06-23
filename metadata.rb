@@ -1,3 +1,4 @@
+name             "statsd"
 maintainer       "Mike Heffner"
 maintainer_email "mike@librato.com"
 license          "Apache 2.0"
